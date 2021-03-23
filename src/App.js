@@ -2,11 +2,11 @@ import './App.css';
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Aboutus from './Aboutus';
-import Home from './Home';
-import Vaastuportfolio from './Vaastuportfolio';
-import Bookappointment from './Bookappointment';
-import Contact from './Contact';
-import Navbar from './Navbar';
+import Home from './screens/Home';
+import Vaastuportfolio from './screens/Vaastuportfolio';
+import Bookappointment from './screens/Bookappointment';
+import Contact from './screens/Contact';
+import Navbar from './components/Navbar';
 
 
 
